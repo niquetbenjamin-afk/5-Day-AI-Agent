@@ -1,0 +1,9 @@
+travel-agent-vertex/
+  services/
+    flights-proxy/
+    hotels-proxy/
+    activities-proxy/
+  openapi/
+  agent_builder/
+  deploy/
+  README.md
